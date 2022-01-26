@@ -1,4 +1,4 @@
-## About Me
+## Felipe Gabela
 
 I am a resourceful, faster learner, and passionate full stack developer. I have strong technical skills as well as excellent interpersonal skills. When I am not learning a new technology or framework, I am enjoying the outdoors or rock climbing.
 
@@ -36,7 +36,7 @@ I am a resourceful, faster learner, and passionate full stack developer. I have 
 - Relay: GraphQL client that aggregates and optimizes the data requirements for your entire app, so that they can be efficiently fetched in a single GraphQL request
 - Prisma: Next-generation Node.js and TypeScript ORM
 - Hydrogen: React-based framework for building custom storefronts on Shopify
-- Tailwind: A utility-first CSS framework packed
+- Tailwind: A utility-first CSS framework
 - Solidity: A programming language designed for developing smart contracts that run on Ethereum
 - Go: Build fast, reliable, and efficient software at scale
 - CloudFormation: An infrastructure as code (IaC) service that allows you to easily model, provision, and manage AWS and third-party resources
