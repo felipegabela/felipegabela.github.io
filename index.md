@@ -1,13 +1,13 @@
 ## Felipe Gabela
 
-I spend 10+ hours a day in front of a computer coding, debugging, reading documentation, discussing coding praactices, scrolling through Stack Overflow, Medium articles, and discord servers to improve my current stack and learn new libraries and frameworks, but somehow I am always short of time.  
+I spend 10+ hours a day in front of a computer coding, debugging, reading documentation, discussing coding practices, scrolling through Stack Overflow, Medium articles, and discord servers to improve my current stack and learn new libraries and frameworks, but somehow I am always short of time.  
 
-When I started coding I created a list on my iphone's notes called "My Developer Roadmap". The purpose was to list all the technologies, standards, and protocols  I wanted to learn and master. As most developers probably guessed, the list became quite extensive really fast. Early on I naively looked forward to the day I would finally check all the items in my list and become a 'good' developer. However, I quickly realized that was an impossible goal, for each item I checked five more were added.  
+When I started coding I created a list on my iPhone's notes called "My Developer Roadmap". The purpose was to list all the technologies, standards, and protocols  I wanted to learn and master. As most developers probably guessed, the list became quite extensive really fast. Early on I naively looked forward to the day I would finally check all the items on my list and become a "good" developer. However, I quickly realized that was an impossible goal, for each item I checked five more were added.  
 
-I have come to terms with the fact that the pursuit of knowledge is a downwards spiral. The more you learn the more clueless you are. What seemed like a reasonable explanation before all of the sudden seems insufficient. But that is okay. I embraced the idea that the beautify of learning is on the proccess and what makes us good at something is our capacity to excel given our incomplete understanding and our willigness to keep learning despite knowing there will always be something we don't fully understand. 
+I have come to terms with the fact that the pursuit of knowledge is a downwards spiral. The more you learn the more clueless you are. What seemed like a reasonable explanation before all of the sudden seems insufficient. But that is okay. I embraced the idea that the beautify of learning is in the process and what makes us good at something is our capacity to excel given our incomplete understanding and our willingness to keep learning despite knowing there will always be something we don't fully understand. 
 
 
-My original list came a long way since its first version, it is now a much larger and comprehensive Notion file that organizes each technology according to its use and other related tech. Here are some of my favorite technologies I have learned and mastered throughout my journey and a couple of technologies I am prioritizing to learn in 2022. 
+My original list came a long way since its first version, it is now a much larger and more comprehensive Notion file that organizes each technology according to its use and another related tech. Here are some of my favorite technologies I have learned and mastered throughout my journey and a couple of technologies I am prioritizing learning in 2022. 
 
 ### Go to programming languages 
 - JavaScript & TypeScript
@@ -33,9 +33,9 @@ My original list came a long way since its first version, it is now a much large
 - MongoDB
   - Mongoose
 - AWS 
- - ECS & EC2 / Fargate
- - Lambda Functions
- - Cognito
+  - ECS & EC2 / Fargate
+  - Lambda Functions
+  - Cognito
 - Shopify Liquid
 - Docker
 - Jenkins
