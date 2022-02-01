@@ -32,10 +32,7 @@ My original list came a long way since its first version, it is now a much large
     - Knex
 - MongoDB
   - Mongoose
-- AWS 
-  - ECS & EC2 / Fargate
-  - Lambda Functions
-  - Cognito
+- AWS
 - Shopify Liquid
 - Docker
 - Jenkins
